@@ -1,0 +1,1 @@
+new salary/old salary -1*100 = increment
